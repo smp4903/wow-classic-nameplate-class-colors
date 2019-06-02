@@ -83,8 +83,6 @@ end
 
 -- HELPERS
 local function startsWith(text, prefix)
-    print("looking for: "..prefix.. " in :"..text)
-
     return text:sub(1, #prefix) == prefix
 end
 

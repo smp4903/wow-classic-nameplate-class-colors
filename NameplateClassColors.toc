@@ -6,5 +6,5 @@
 ## Author: Stefan Michael Pedersen (stefanmp91@gmail.com)
 ## SavedVariablesPerCharacter: NameplateClassColors_Options
 
-NameplateClassColors.lua
+NameplateClassColors.xml
 
